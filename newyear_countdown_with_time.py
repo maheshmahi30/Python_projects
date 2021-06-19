@@ -1,6 +1,12 @@
 """
 Dec 31 2020 11:43 PM
 op:0 hours 17 minutes
+
+Dec 30 2020 02:43 PM
+op:33 hours 17 minutes
+
+Jan 31 2020 04:43 AM
+op:8059 hours 17 minutes
 """
 from datetime import datetime,timedelta
 input_date = input()
